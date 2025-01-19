@@ -2,3 +2,23 @@ h1{
     color: brown;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
+
+.your-boy{
+    color: rgb(238, 92, 92);font-size: medium;
+}
+
+.good-boy{
+    color: rgb(119, 5, 5);
+    font: bold;
+}
+
+#my-jj{
+    color: blueviolet;
+    font-size:x-large ;     
+}
+p,h3{
+    color: brown;font-size: xx-large;
+    }
+
+
+
