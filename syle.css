@@ -1,24 +1,116 @@
-h1{
-    color: brown;
+.A{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+    float: right;
+}
+.B{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+    float: right;
+}
+.C{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+    float: right;
+}
+.D{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+    float: right;
+}
+.E{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+    float: right;
+}
+.logo{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+    float: right;
+}
+body{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+nav{
+    background: #0082e6;
+    height: 80px;
+    width: 100%;
+
+}
+lavel.logo{
+    color: white;
+    font-size: 35px;
+    line-height: 80px;
+    padding: 0 100px;
+    font-weight: bold;
+}
+nav ul{
+    float: right;
+    margin-right: 20px;
+}
+p{
+    display: inline-block;
+    font-size: 30px;
+    word-spacing: 1ch;   
+}
+body{
+    /* background-image: url(forest.jpg);  */
+    background-color: rgb(255, 255, 253);
+    background-repeat: no-repeat;
+    background-size:2000px;
+    background-position: center;
+}
+.first-one{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 70px;
+
+  
+}
+.second-one{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 70px;
+}
+
+.header_part{
+    background-image: url("forest.jpg");
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 800px;
+    position: relative;
+    text-align: center;
+   
+}
+.header_part h1{
+    text-align: center;
+    margin-top: 20%;
+    position: absolute;
+    top: 5%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 80px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
-
-.your-boy{
-    color: rgb(238, 92, 92);font-size: medium;
-}
-
-.good-boy{
-    color: rgb(119, 5, 5);
-    font: bold;
-}
-
-#my-jj{
-    color: blueviolet;
-    font-size:x-large ;     
-}
-p,h3{
-    color: brown;font-size: xx-large;
-    }
 
 
 
